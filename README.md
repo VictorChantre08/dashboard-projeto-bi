@@ -39,12 +39,6 @@ O painel é interativo e permite análises dinâmicas através dos seguintes rec
 
 ---
 
-
-
-## 🌐 Visualização Online
-
-&
-
 ## 🖥️ Como Abrir o Arquivo
 
 1.  Garanta que você possui o **Microsoft Power BI Desktop** instalado em sua máquina.
